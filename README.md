@@ -6,6 +6,10 @@ A minimal demo of a circular return and recycling system for e-commerce. BackLoo
 **Live Demo**: [https://backloop-easy-return-demo.netlify.app](https://backloop-easy-return-demo.netlify.app)  
 **Built by**: Akmal Hossain, Srishant Kumar
 
+For demo purposes, use:
+- **Bill Number**: `ECO-2025-001127`
+- **Image Upload**: Use a `.webp` format product photo
+
 ---
 
 ## ⚙️ Tech Stack
