@@ -36,7 +36,7 @@ const orders: Order[] = [
         image: "https://m.media-amazon.com/images/I/51gO-y0DDBL._SX300_SY300_QL70_FMwebp_.jpg",
         quantity: 1,
         returnable: true,
-        returnDeadline: "2025-06-30",
+        returnDeadline: "2025-07-06",
       },
       {
         id: "2",
@@ -45,7 +45,7 @@ const orders: Order[] = [
         image: "https://m.media-amazon.com/images/I/41xlIZwU5KL._SX679_.jpg",
         quantity: 1,
         returnable: true,
-        returnDeadline: "2025-06-30",
+        returnDeadline: "2025-07-06",
       },
     ],
   },
